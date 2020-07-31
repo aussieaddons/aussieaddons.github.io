@@ -10,7 +10,7 @@ order: 10
 
 We have a <i class="fa fa-slack"> Slack</i> chat server running, which you can use chat with us, and others also using our add-ons.
 
-Use the [sign-up page](http://slack-invite.aussieaddons.com) and follow the instructions in your email. 
+Use the [sign-up page](https://slack-invite.aussieaddons.com) and follow the instructions in your email. 
 
 Once you're in, make sure you mention `@andybz` or `@glennguy` so we get notified.
 

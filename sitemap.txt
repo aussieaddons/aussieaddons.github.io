@@ -1,7 +1,0 @@
----
-title : Sitemap
----
-{% for page in site.pages %}
-{% if page.sitemap != false %}{{site.baseurl}}{{ page.url }}{% endif %}{% endfor %}
-{% for post in site.posts %}
-{{site.baseurl}}{{ post.url }}{% endfor %}

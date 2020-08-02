@@ -1,17 +1,21 @@
 title: Aussie Add-ons
 tagline: Kodi repository of add-ons for Australian content.
+url: https://aussieaddons.com
+giturl: http://aussieaddons.github.io
+baseurl:
+rss: https://aussieaddons.com/atom.xml
+
+# Dependencies
+markdown: kramdown
+
 author:
   name: Aussie Addons
   email: aussieaddons@aussieaddons.com
   github: aussieaddons
   twitter: aussieaddons
 
-url: https://aussieaddons.com
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-
-sass:
-  style: :compressed
 
 collections:
   addons:
@@ -23,3 +27,7 @@ analytics:
 
 exclude:
  - vendor
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed

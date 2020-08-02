@@ -10,7 +10,7 @@ Many streaming services are now implementing Digital Right Management (DRM) secu
 
 On many platforms, we support decoding of these streams using the Inputstream.Adaptive support available as an optional extra with Kodi v18. This means that you **must be running at least Kodi v18** for this to work.
 
-<div class="bs-callout bs-callout-danger">
+<div class="callout callout-danger">
   <h4>Kodi version requirement</h4>
   DRM support is available only in Kodi v18 (or newer) through the
   Inputstream.Adaptive add-on, which may need be installed for your platform.

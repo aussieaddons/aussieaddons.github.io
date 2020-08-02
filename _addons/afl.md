@@ -14,7 +14,7 @@ AFL Video is fully supported, with the following functionality:
  - Match replays (AFL Live Pass required)
  - On-demand video clips (Coach press-conferences, highlights, Team video, etc)
 
-<div class="bs-callout bs-callout-danger">
+<div class="callout callout-danger">
   <h4>Kodi version requirement</h4>
   You will need to use at least Kodi v17 for this to function correctly, due to the
   HTTPS encryption enforced on the streaming servers.
@@ -31,7 +31,7 @@ You can use a valid AFL Live Pass subscription to watch live streaming and match
 replays through this add-on. This can be either a subscription paid for through AFL.com.au
 or it can be a Telstra free subscription through a mobile plan.
 
-<div class="bs-callout bs-callout-danger">
+<div class="callout callout-danger">
   <h4>DRM support required for live matches</h4>
   Since the 2019 season, live AFL matches are now protected with DRM.
 

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Privacy
-group: navigation
 permalink: /privacy/
-order: 07
 ---
 
 We want you to feel comfortable using Aussie Add-ons.

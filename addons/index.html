@@ -7,16 +7,14 @@ order: 01
 {% if site.addons != empty %}
 {% for addon in site.addons %}
 <div class="media">
-  <div class="media-left">
-    <a href="{{ site.baseurl }}{{ addon.id }}">
-      <img src="{{ site.baseurl }}/assets/images{{ addon.id }}.png" class="media-object" alt="{{ addon.title }}" style="width:100px">
-	</a>
-  </div>
+  <a href="{{ site.baseurl }}{{ addon.id }}">
+    <img class="mr-3" src="{{ site.baseurl }}/assets/images{{ addon.id }}.png" alt="{{ addon.title }}" style="width:100px">
+  </a>
   <div class="media-body">
     <a href="{{ site.baseurl }}{{ addon.id }}">
-      <h2 class="media-heading">{{ addon.title }}</h2>
+      <h3 class="mt-0">{{ addon.title }}</h3>
 	</a>
-    <p>{{ addon.description }}</p>
+    {{ addon.description }}
   </div>
 </div>
 <br />

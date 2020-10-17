@@ -19,7 +19,7 @@ Just follow the video below on how to add the repository quickly through Kodi.
   
 ## Manual installation
 
-First step is the grab the [repo ZIP file](https://r.aussieaddons.com/repo.zip).
+First step is the grab the [repo ZIP file](https://r.aussieaddons.com/repo-1.2.0.zip).
 
 Download the ZIP file to your Kodi device and install through the menu via:
 
